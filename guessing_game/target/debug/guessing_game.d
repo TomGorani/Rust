@@ -1,1 +1,1 @@
-C:\Users\user\Documents\git-repo\Rust\guessing_game\target\debug\guessing_game.exe: C:\Users\user\Documents\git-repo\Rust\guessing_game\src\main.rs
+/Users/gimtaeyun/Documents/git-workspace/Rust/guessing_game/target/debug/guessing_game: /Users/gimtaeyun/Documents/git-workspace/Rust/guessing_game/src/main.rs
